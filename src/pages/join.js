@@ -1,6 +1,6 @@
 import Navbar from '../components/Navbar';
 import Footer from '@/components/Footer';
-import '../styles/globals.css';
+// import '../styles/globals.css';
 import WhatsAppButton from '@/components/WhatsAppButton';
 export default function Join() {
     return (

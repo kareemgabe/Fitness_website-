@@ -6,7 +6,7 @@ export default function Footer() {
         <div className="container mx-auto px-6 lg:px-20">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-6 md:mb-0">
-             
+              <img src="/logo.png" alt="Doctor & Coach" className="w-32 mx-auto md:mx-0" />
               <div className="flex space-x-4 mt-4">
                 <a href="#" className="text-gray-600 hover:text-gray-900"><i className="fab fa-facebook"></i></a>
                 <a href="#" className="text-gray-600 hover:text-gray-900"><i className="fab fa-twitter"></i></a>
